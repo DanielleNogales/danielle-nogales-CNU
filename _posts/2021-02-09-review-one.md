@@ -1,4 +1,4 @@
-Project: The Pulter Project
+Project: _The Pulter Project_
 
 Project Directors: Wendy Wall and Leah Knight
 
