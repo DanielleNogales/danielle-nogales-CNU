@@ -25,3 +25,5 @@ There are two ways that readers can engage with the poems: a comparison tool tha
 All 120 of Hester Pulter poems are listed in alphabetical order according to author surname and periodically by writers who have responded to her work. This element is well organized for readers to click on what items are most recent as well as most relevant. In addition, themes are provided under the poems which can be helpful in determining the interests of the reader. The poems contain an elemental and amplified version of the work along with providing notes about the historical context. 
 
 While the comparison tool is an efficient effort to provide variety, there seems to be little to no difference when comparing the versions. In order for the reader to get a glimpse of how the versions are different, they should update the amplified version and transform it into more modernized language. That way they can really compare the 17th century writing to the present day version. 
+
+![Comparison](https://DanielleNogales.github.io/danielle-nogales-CNU/images/comparison.jpg)
