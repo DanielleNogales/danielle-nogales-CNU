@@ -32,7 +32,8 @@ While the comparison tool is an efficient effort to provide variety, there seems
 
 On the main screen, the reader will see a link for a video. Once they click on the icon, the video will show some of the visual elements contained within the project. While it’s fascinating to glimpse at the introductory video, it fails to give the viewer insight on what the _Pulter Project_ is about. It could benefit from detailing why they made the project as well. This way the reader can choose to watch or read the project’s description. 
 
-Another key feature of the project is the original manuscript from Pulter’s handwriting. This document is very interesting in the sense that the reader can feel closely connected to the text. Although the handwriting was difficult to view even when using the magnifying glass button. Perhaps if the poem was directly beside the manuscript then the reader would be able to follow along more easily. 
+Another key feature of the project is the original manuscript from Pulter’s handwriting. This document is very interesting in the sense that the reader can feel closely connected to the text. Although the handwriting was difficult to view even when using the magnifying glass button. Perhaps if the poem was directly beside the manuscript then the reader would be able to follow along more easily. In addition, maybe they can enlarge the text so the font is not strenuous to read.
+
 
 # Relevance
 
