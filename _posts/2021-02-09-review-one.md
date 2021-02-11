@@ -27,3 +27,13 @@ All 120 of Hester Pulter poems are listed in alphabetical order according to aut
 While the comparison tool is an efficient effort to provide variety, there seems to be little to no difference when comparing the versions. In order for the reader to get a glimpse of how the versions are different, they should update the amplified version and transform it into more modernized language. That way they can really compare the 17th century writing to the present day version. 
 
 ![Comparison](https://DanielleNogales.github.io/danielle-nogales-CNU/images/comparison.jpg)
+
+# Digital Humanities
+
+On the main screen, the reader will see a link for a video. Once they click on the icon, the video will show some of the visual elements contained within the project. While it’s fascinating to glimpse at the introductory video, it fails to give the viewer insight on what the _Pulter Project_ is about. It could benefit from detailing why they made the project as well. This way the reader can choose to watch or read the project’s description. 
+
+Another key feature of the project is the original manuscript from Pulter’s handwriting. This document is very interesting in the sense that the reader can feel closely connected to the text. Although the handwriting was difficult to view even when using the magnifying glass button. Perhaps if the poem was directly beside the manuscript then the reader would be able to follow along more easily. 
+
+# Relevance
+
+In all, this project does an efficient job in utilizing many aspects of technology in order to explore the realms of Pulter’s poems. The reader is able to gain more knowledge on how poets create masterpieces by looking at the different interpretations of each work. The technology serves as a compare and contrast element as well as show how different meanings can be formed based on who reads the text. In all, the project does a great job at capturing how there is not one ideal definition of poetry, but rather many. 
