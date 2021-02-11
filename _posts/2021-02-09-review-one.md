@@ -34,6 +34,7 @@ On the main screen, the reader will see a link for a video. Once they click on t
 
 Another key feature of the project is the original manuscript from Pulter’s handwriting. This document is very interesting in the sense that the reader can feel closely connected to the text. Although the handwriting was difficult to view even when using the magnifying glass button. Perhaps if the poem was directly beside the manuscript then the reader would be able to follow along more easily. In addition, maybe they can enlarge the text so the font is not strenuous to read.
 
+![Manuscript](https:DanielleNogales.github.io/danielle-nogales-CNU/images/manuscript.JPG)
 
 # Relevance
 
