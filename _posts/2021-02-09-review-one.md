@@ -1,6 +1,9 @@
 Project: The Pulter Project
+
 Project Directors: Wendy Wall and Leah Knight
+
 Project URL: http://pulterproject.northwestern.edu/
+
 Reviewed By: Dani Nogales
 
 # Summary
