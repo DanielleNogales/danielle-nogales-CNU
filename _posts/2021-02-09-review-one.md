@@ -37,4 +37,4 @@ Another key feature of the project is the original manuscript from Pulter’s ha
 
 # Relevance
 
-In all, this project does an efficient job in utilizing many aspects of technology in order to explore the realms of Pulter’s poems. The reader is able to gain more knowledge on how poets create masterpieces by looking at the different interpretations of each work. The technology serves as a compare and contrast element as well as show how different meanings that can be determined based on who reads the text. In all, the project does a great job at capturing how there is not one ideal definition of poetry, but rather many. 
+In all, this project does an efficient job in utilizing many aspects of technology in order to explore the realms of Pulter’s poems. The reader is able to gain more knowledge on how poets create masterpieces by looking at the different interpretations of each work. The technology serves as a compare and contrast element as well as show how different meanings can be determined based on who reads the text. In all, the project does a great job at capturing how there is not one ideal definition of poetry, but rather many. 
