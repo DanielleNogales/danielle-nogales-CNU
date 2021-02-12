@@ -17,7 +17,7 @@ By constructing this frame, editors have pulled back on having one complete vers
 
 #### Design
 
-The level of organization is very consistent throughout the project. When the reader first discovers the site, there are three buttons on the main screen that they can navigate. These three are the preface, the poems, and the discoveries. The icons displayed in the mainscreen allow the reader to search and explore the project without getting lost. 
+The level of organization is very consistent throughout the project. When the reader first discovers the site, there are three buttons on the main screen that they can navigate. These three are the preface, the poems, and the discoveries. The icons displayed in the beginning allow the reader to search and explore the project without getting lost. 
 
 There are two ways that readers can engage with Pulter's poems. One of them is a comparison tool that allows for analyzing the vast editions, facsimiles, and transcriptions of the manuscript and the other is a reading tool that looks at a single edition along with additional notes provided for each poem. The variety of engagement that the reader is provided with is impressive since it would be challenging for them to grasp the project's content by using only one tool. 
 
