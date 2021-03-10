@@ -1,10 +1,10 @@
-# _Project:_ The Lost Museum
+### _Project:_ The Lost Museum
 
-# _Project Director:_ Andrea Ades Vásquez
+### _Project Director:_ Andrea Ades Vásquez
 
-# _Project URL:_https://lostmuseum.cuny.edu/index.php#
+### _Project URL:_ https://lostmuseum.cuny.edu/index.php#
 
-# _Reviewed by:_ Dani Nogales
+### _Reviewed by:_ Dani Nogales
 
 ### Summary
 
