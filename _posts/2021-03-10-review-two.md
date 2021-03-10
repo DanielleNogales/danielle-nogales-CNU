@@ -10,7 +10,7 @@
 
 _The Lost Museum_ is an interactive digital humanities project exploring the museum of P.T. Barnum’s American Museum that dives deep into exploring topics covered in a U.S. History class. Many of these topics include the Civil War Era that delves into the heart of issues regarding race, gender, reform, immigration, sectionalism, and popular culture. 
 
-![3-D Museum](https://DanielleNogales.github.io/danielle-nogales-CNU/image/3dmuseum.png) 
+![3-D Museum](https://DanielleNogales.github.io/danielle-nogales-CNU/images/3dmuseum.png) 
 
 The reader is able to explore the 3-D environment museum and solve the mystery on who burned the American Museum down. Some of the activities include reading overviews on artifacts as well as finding clues in order to track potential suspects. From 1996-2002, this project was a collaborative process incorporating many historians, artists, programmers, writers, researchers, and animators ranging in a variety of backgrounds. 
 
