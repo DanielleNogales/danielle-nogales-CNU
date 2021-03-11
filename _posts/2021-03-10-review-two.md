@@ -26,7 +26,7 @@ The next section they can click on is the archives which can guide them to diffe
 
 #### Digital Humanities
 
-This project does a great job combining both history and technology in order to get the user engaged as well as learn numerous topics. By creating a 3-D museum, people can explore in a visual and exciting way. I believe this project makes an efficient learning experience for anyone because of the interactive elements such as finding artifacts and solving the mystery of the fire that killed the American Museum. 
+This project does a great job combining both history and technology in order to get the user engaged as well as learn numerous topics. By creating a 3-D museum, people can explore in a visual and exciting way. I believe this project makes an efficient learning experience for anyone because of the interactive elements such as finding artifacts and solving the mystery of the fire that killed the American Museum. In addition, information that isn’t included in the museum can be found in the “Archive” section, where users can navigate documents pertaining to numerous documents within the exhibits. This allows for readers to gain a deeper understanding by searching information they want to know more about. 
 
 #### Conclusion
 
